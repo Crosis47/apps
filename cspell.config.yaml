@@ -131,6 +131,7 @@ words:
   - dynu
   - dynv
   - easydns
+  - ebbwell
   - electrs
   - elfhosted
   - elif
@@ -159,6 +160,7 @@ words:
   - forgejo
   - fowner
   - freedns
+  - freelisten
   - freikin
   - freshclamd
   - freshrss
@@ -346,12 +348,15 @@ words:
   - netscope
   - nevu
   - nexbeat
+  - nexcrate
   - nexdeck
   - nexmail
   - nexpulse
+  - nexsift
   - nextauth
   - nextcloud
   - nextpvr
+  - nextrmnl
   - nexview
   - ngrams
   - njalla
@@ -411,6 +416,7 @@ words:
   - pgvectors
   - phantomjs
   - photoprism
+  - photostructure
   - photoview
   - pigallery
   - pihole
@@ -564,6 +570,7 @@ words:
   - timelinize
   - tinyauth
   - tmdb
+  - tmodloader
   - tmpfs
   - tojson
   - toparr
@@ -579,6 +586,7 @@ words:
   - tshock
   - tubearchivist
   - tvheadend
+  - tvweb
   - twingate
   - twofactor
   - twofauth
